@@ -1,16 +1,73 @@
-<h1 align="center">Hossam Ahmed (Software Ninja from Egypt) </h1>
+<h1 align="center">Hossam Ahmed</h1>
+<h3 align="center">Senior Software Engineer · AI Engineer · Founder</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bugzee321&label=Profile%20views&color=0e75b6&style=flat" alt="bugzee321" /> </p>
+<p align="center">
+  Building production software for 10+ years, from government portals to fintech, e-commerce and healthcare.<br/>
+  These days I ship products on top of LLMs: RAG, MCP servers and agentic workflows.
+</p>
 
-- 🔭 I’m currently working on [Cartona](https://cartona.com/)
+<p align="center">
+  <a href="https://linkedin.com/in/bugzee"><img src="https://img.shields.io/badge/LinkedIn-bugzee-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:ahossam9371@gmail.com"><img src="https://img.shields.io/badge/Email-ahossam9371%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
+  <img src="https://img.shields.io/badge/Based%20in-Dubai%2C%20UAE-111111?style=flat" alt="Dubai, UAE"/>
+  <img src="https://komarev.com/ghpvc/?username=bugzee321&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
+</p>
 
-- 🌱 I’m currently learning **React**
+---
 
-- 💬 Ask me about **PHP,Laravel**
+### 🚀 What I'm doing now
 
-- 📫 How to reach me **ahossam9371@gmail.com**
+| | |
+|---|---|
+| 💼 **Day job** | Senior Software Engineer, full-time remote for a US-based company |
+| 🏢 **Founder** | Running my own UAE-registered software company (since 2025) |
+| ⚖️ **Building** | [LawyerUAE.ai](https://lawyeruae.ai): AI legal SaaS for UAE law firms, now being rebuilt from scratch |
+| 🛡️ **Advisory** | Part-time advisor at EG-CERT (Egypt's national CERT) |
+| 🤖 **Focus** | LLM apps: RAG pipelines, MCP servers, agent workflows, AI integrations |
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://ionicframework.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://symfony.com" target="_blank" rel="noreferrer"> <img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bugzee321&show_icons=true&locale=en&layout=compact" alt="bugzee321" /></p>
+### 🧠 AI work
+
+- **LawyerUAE.ai**: RAG over UAE legal content, built on the Claude API (Next.js, Express, PostgreSQL)
+- **MCP servers and agentic integrations** that let AI agents read and act on real product data
+- **Multi-model pipelines**: n8n + custom JS orchestrating text and image models into finished outputs
+- Daily driver: Claude Code for building, OpenRouter for model experiments
+
+---
+
+### 🏗️ Selected work
+
+| Where | What I did | Stack |
+|---|---|---|
+| **EG-CERT** | Designed and built government portals from scratch for data collection, processing and analytics; pen-tested government entities | Laravel, Ruby, Go, Python, TS, PostgreSQL, ClickHouse, Redis, AWS + on-prem |
+| **CareSnap** (US healthcare) | Built the backend, frontend and mobile app solo for an EVV system exchanging patient data with Texas Medicaid (TMHP); 600+ care requests/day, HIPAA-regulated | TypeScript, NestJS, React + Capacitor, PostgreSQL, Redis, BullMQ, AWS |
+| **Cadillac Uniform** | Route optimization that cut the daily fleet from 40+ to 27 trucks; internal analytics tools | Python, TypeScript, PostgreSQL, Google APIs, Docker |
+| **Lynk** (fintech) | Built backup and recovery from scratch; real-time events | Laravel, NATS, SSE, Grafana, Loki |
+| **Cartona** (B2B e-commerce) | Backend and frontend on a high-volume marketplace | Ruby on Rails, PostgreSQL, ClickHouse, Sidekiq, RabbitMQ, Angular/Ionic, AWS |
+| **Learnovia** (EdTech) | Led a 7-person team on web and mobile apps for 100+ schools and ~100K students | Laravel, Flutter, Moodle |
+| **ExpandCart** | E-commerce platform with 1,000+ merchants across 6+ countries | PHP, MySQL, Redis, queues |
+
+---
+
+### 🛠️ Stack
+
+**Backend:** PHP/Laravel · Ruby on Rails · Node.js/NestJS · Go · Python
+**Frontend & mobile:** React · Next.js · TypeScript · Angular · Capacitor · Flutter
+**Data:** PostgreSQL · MySQL · ClickHouse · Redis · Elasticsearch
+**Messaging:** NATS · RabbitMQ · Sidekiq · BullMQ
+**Infra:** AWS · GCP · OCI · Docker · Kubernetes · Traefik
+**AI:** Claude API · OpenRouter · RAG · MCP · n8n
+**Security:** Burp Suite · Nmap · Metasploit · sqlmap
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=php,laravel,rails,nodejs,nestjs,go,python,ts,react,nextjs,angular,flutter,postgres,mysql,redis,elasticsearch,rabbitmq,aws,gcp,docker,kubernetes,linux,git&perline=12" alt="tech stack"/>
+</p>
+
+---
+
+### 💬 Ask me about
+
+Scaling backends · Laravel and Rails architecture · Real-time systems (NATS, SSE) · Shipping LLM features to production · Application security
+
+<p align="center"><i>Open to senior / AI engineering roles in Dubai & Abu Dhabi and remote.</i></p>

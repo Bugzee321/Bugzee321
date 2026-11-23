@@ -1,9 +1,9 @@
 <h1 align="center">Hossam Ahmed</h1>
-<h3 align="center">Senior Software Engineer · AI Engineer · Founder</h3>
+<h3 align="center">Full-Stack Engineer · AI Engineer · Founder</h3>
 
 <p align="center">
-  Building production software for 10+ years, from government portals to fintech, e-commerce and healthcare.<br/>
-  These days I ship products on top of LLMs: RAG, MCP servers and agentic workflows.
+  10+ years shipping end-to-end products: backend, frontend, mobile, data and cloud.<br/>
+  Now I build AI into real products: LLM features, RAG, MCP servers and agent workflows.
 </p>
 
 <p align="center">
@@ -15,59 +15,56 @@
 
 ---
 
-### 🚀 What I'm doing now
+### 🚀 Now
 
 | | |
 |---|---|
-| 💼 **Day job** | Senior Software Engineer, full-time remote for a US-based company |
-| 🏢 **Founder** | Running my own UAE-registered software company (since 2025) |
-| ⚖️ **Building** | [LawyerUAE.ai](https://lawyeruae.ai): AI legal SaaS for UAE law firms, now being rebuilt from scratch |
+| 💼 **Day job** | Senior Full-Stack Engineer, full-time remote for a US-based company |
+| 🏢 **Founder** | Running my own UAE-registered software company |
+| ⚖️ **Building** | [LawyerUAE.ai](https://lawyeruae.ai): AI legal assistant for UAE law firms, now being rebuilt |
 | 🛡️ **Advisory** | Part-time advisor at EG-CERT (Egypt's national CERT) |
-| 🤖 **Focus** | LLM apps: RAG pipelines, MCP servers, agent workflows, AI integrations |
 
 ---
 
-### 🧠 AI work
+### 🧠 What I build with AI
 
-- **LawyerUAE.ai**: RAG over UAE legal content, built on the Claude API (Next.js, Express, PostgreSQL)
-- **MCP servers and agentic integrations** that let AI agents read and act on real product data
-- **Multi-model pipelines**: n8n + custom JS orchestrating text and image models into finished outputs
-- Daily driver: Claude Code for building, OpenRouter for model experiments
-
----
-
-### 🏗️ Selected work
-
-| Where | What I did | Stack |
-|---|---|---|
-| **EG-CERT** | Designed and built government portals from scratch for data collection, processing and analytics; pen-tested government entities | Laravel, Ruby, Go, Python, TS, PostgreSQL, ClickHouse, Redis, AWS + on-prem |
-| **CareSnap** (US healthcare) | Built the backend, frontend and mobile app solo for an EVV system exchanging patient data with Texas Medicaid (TMHP); 600+ care requests/day, HIPAA-regulated | TypeScript, NestJS, React + Capacitor, PostgreSQL, Redis, BullMQ, AWS |
-| **Cadillac Uniform** | Route optimization that cut the daily fleet from 40+ to 27 trucks; internal analytics tools | Python, TypeScript, PostgreSQL, Google APIs, Docker |
-| **Lynk** (fintech) | Built backup and recovery from scratch; real-time events | Laravel, NATS, SSE, Grafana, Loki |
-| **Cartona** (B2B e-commerce) | Backend and frontend on a high-volume marketplace | Ruby on Rails, PostgreSQL, ClickHouse, Sidekiq, RabbitMQ, Angular/Ionic, AWS |
-| **Learnovia** (EdTech) | Led a 7-person team on web and mobile apps for 100+ schools and ~100K students | Laravel, Flutter, Moodle |
-| **ExpandCart** | E-commerce platform with 1,000+ merchants across 6+ countries | PHP, MySQL, Redis, queues |
+- **LLM-powered products**: from prompt design to production, including evals, cost and latency
+- **RAG systems** over domain data (legal documents for LawyerUAE.ai)
+- **MCP servers and agent integrations** that let AI assistants read and act on live product data
+- **Multi-model pipelines** that chain text and image models into finished outputs
+- **AI-assisted engineering**: Claude Code and agentic workflows in my day-to-day development
 
 ---
 
-### 🛠️ Stack
+### 🏗️ What I've shipped
 
-**Backend:** PHP/Laravel · Ruby on Rails · Node.js/NestJS · Go · Python
-**Frontend & mobile:** React · Next.js · TypeScript · Angular · Capacitor · Flutter
-**Data:** PostgreSQL · MySQL · ClickHouse · Redis · Elasticsearch
-**Messaging:** NATS · RabbitMQ · Sidekiq · BullMQ
-**Infra:** AWS · GCP · OCI · Docker · Kubernetes · Traefik
-**AI:** Claude API · OpenRouter · RAG · MCP · n8n
-**Security:** Burp Suite · Nmap · Metasploit · sqlmap
+| Domain | Impact |
+|---|---|
+| **Government** (EG-CERT) | Built national portals from scratch for collecting, processing and analyzing security data across Egyptian government bodies; pen-tested government systems |
+| **Healthcare** (US) | Built a HIPAA-regulated care platform end to end as the only engineer (web, mobile and backend) exchanging data with Texas Medicaid; 600+ care requests/day |
+| **Logistics** (US) | Route optimization that cut a daily fleet from 40+ to 27 trucks and saved ~200 driving hours a day |
+| **Fintech** | Designed backup and disaster recovery from scratch; real-time event streaming and observability |
+| **B2B e-commerce** | Full-stack work on a high-volume marketplace with ClickHouse analytics, queues and a mobile app |
+| **EdTech** | Led a 7-person team shipping web and mobile apps for 100+ schools and ~100K students |
+| **E-commerce SaaS** | Scaled a platform serving 1,000+ merchants across 6+ countries |
+
+---
+
+### 🧰 Capabilities
+
+| Area | |
+|---|---|
+| **AI** | LLM integration · RAG · MCP · agents · OpenRouter · Claude API · n8n |
+| **Full-stack** | APIs and distributed backends · React / Next.js · mobile apps · TypeScript · Python |
+| **Data** | ClickHouse · PostgreSQL · Redis · Elasticsearch · large-scale query optimization |
+| **Real-time & async** | Event streaming (NATS, SSE) · message queues · background jobs |
+| **Cloud & DevOps** | AWS · GCP · OCI · Docker · Kubernetes · CI/CD · monitoring |
+| **Security** | Penetration testing · secure architecture · compliance (HIPAA) |
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=php,laravel,rails,nodejs,nestjs,go,python,ts,react,nextjs,angular,flutter,postgres,mysql,redis,elasticsearch,rabbitmq,aws,gcp,docker,kubernetes,linux,git&perline=12" alt="tech stack"/>
+  <img src="https://skillicons.dev/icons?i=aws,python,ts,react,nextjs,nodejs,postgres,redis,docker,kubernetes,gcp,linux&perline=12" alt="tools"/>
 </p>
 
 ---
 
-### 💬 Ask me about
-
-Scaling backends · Laravel and Rails architecture · Real-time systems (NATS, SSE) · Shipping LLM features to production · Application security
-
-<p align="center"><i>Open to senior / AI engineering roles in Dubai & Abu Dhabi and remote.</i></p>
+<p align="center"><i>I pick the right tool for the problem; the language comes second.</i></p>
